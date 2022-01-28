@@ -1,0 +1,22 @@
+header {
+    background-image: url("marspic.jpeg");
+    border: 1px solid black;
+    height: 450px;
+    width: 850px;
+    margin-bottom: 20px;
+}
+
+article {
+    border: 1px solid black;
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+}
+
+footer {
+    display: flex;
+    border: 1px solid black;
+    height: 324px;
+    width: 850px;
+    padding: 20px;
+}
