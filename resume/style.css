@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+header {
+    border: 1px solid black;
+}
+
+section {
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 33% 33% 34%;
+}
+
+/* article {
+    border: 1px solid black;
+} */
+
+.image {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.experience-hr {
+    background-color: rgb(185, 199, 234);
+    height: 5px;
+    margin-top: 37px;
+    margin-bottom: 20px;
+}
+
+.experience-middle {
+    background-color: rgb(185, 199, 234);
+    height: 50px;
+    padding-top: 30px;
+}
+
+footer {
+    border: 1px solid black;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
